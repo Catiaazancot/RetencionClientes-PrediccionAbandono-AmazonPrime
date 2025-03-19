@@ -71,3 +71,38 @@ def plot_churn_tendencia(dataframe, unidad_tiempo="month"):
         plt.xticks(range(1, 5))  # Asegurar que todos los trimestres aparezcan
 
     plt.show()
+    
+
+def analisis_numericas(dataframe, col_num):
+    """
+    Función para analizar variables numéricas en relación con 'churn_label'.
+    Muestra histogramas para visualizar la distribución.
+    
+    Parámetros:
+    - dataframe: DataFrame con los datos.
+    - col_num: Lista de columnas numéricas a analizar.
+    """
+    
+    if len(col_num) == 0:
+        print("No hay columnas numéricas.")
+    else:
+        # Configurar el tamaño de la figura
+        num_cols = 3  # 3 gráficos por fila
+        num_filas = (len(col_num) + 2) // num_cols  # Calcular filas necesarias
+        fig, axes = plt.subplots(num_filas, num_cols, figsize=(15, num_filas * 5))
+        axes = axes.flatten()  # Convertir los ejes del array en una lista para iterar
+        
+        # Generar histogramas para cada variable numérica
+        for i, col in enumerate(col_num):
+            sns.histplot(data=dataframe, x=col, hue="churn_label", kde=True, bins=30, ax=axes[i], palette="tab10", alpha=0.6)
+            axes[i].set_title(f"Distribución de {col} por Churn Label")
+            axes[i].set_xlabel(col)
+            axes[i].set_ylabel("Frecuencia")
+        
+        # Eliminar ejes sobrantes si hay menos columnas que subplots
+        for j in range(i + 1, len(axes)):
+            fig.delaxes(axes[j])
+        
+        # Ajustar diseño
+        plt.tight_layout()
+        plt.show()
