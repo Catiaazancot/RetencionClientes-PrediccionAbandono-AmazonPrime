@@ -48,27 +48,27 @@ Además, estas acciones no solo tienen impacto económico inmediato, sino que ta
 
 ### Habilidades demostradas en este proyecto
 
-Conciencia del impacto en negocio: foco constante en la mejora de la eficiencia operativa y aumento de la retención de clientes
+- Conciencia del impacto en negocio: foco constante en la mejora de la eficiencia operativa y aumento de la retención de clientes.
 
-Conocimiento profundo del negocio y enfoque estratégico: formulación de preguntas clave alineadas con los objetivos empresariales para transformar datos en decisiones
+- Pensamiento estratégico y comprensión del negocio: priorizo una comprensión profunda del contexto, las métricas clave y los objetivos empresariales antes de iniciar cualquier análisis, asegurando que los resultados sean relevantes y aporten valor real.
 
-Buenas prácticas en calidad, validación y gobernanza del dato: validación de consistencia, tratamiento de nulos y outliers, normalización y limpieza con enfoque en la integridad de la información
+- Buenas prácticas en calidad, validación y gobernanza del dato: validación de consistencia, tratamiento de nulos y outliers, normalización y limpieza con enfoque en la integridad de la información.
 
-Automatización con inteligencia artificial: uso de IA para documentar procesos, asistir en tareas repetitivas y generar código, lo que permite centrar el esfuerzo en el análisis de valor
+- Automatización con inteligencia artificial: uso de IA para documentar procesos, asistir en tareas repetitivas y generar código, lo que permite centrar el esfuerzo en el análisis de valor.
 
-Mentalidad orientada a la optimización y al rendimiento: uso de funciones en python (optimización del tiempo), buenas prácticas en PowerBI y SQL (mejora del rendimiento).
+- Mentalidad orientada a la eficiencia y al rendimiento: optimizo procesos mediante funciones en Python y aplico buenas prácticas en Power BI y SQL para mejorar tiempos de carga, eficiencia de consultas y experiencia de uso.
 
-Análisis exploratorio de datos (EDA)
+- Análisis exploratorio de datos (EDA).
 
-Aplicación de un modelo de regresión logística en R con el objetivo de identificar los factores que más influyen en la pérdida de clientes, utilizando las librerías dplyr, broom, janitor y ggplot2.
+- Aplicación de un modelo de regresión logística en R con el objetivo de identificar los factores que más influyen en la pérdida de clientes, utilizando las librerías dplyr, broom, janitor y ggplot2.
 
-Diseño e implementación de una base de datos relacional en PostgreSQL
+- Diseño e implementación de una base de datos relacional en PostgreSQL.
 
-Consultas SQL orientadas al negocio
+- Consultas SQL orientadas al negocio.
 
-Visualización y storytelling con Power BI
+- Visualización y storytelling con Power BI.
 
-ETL básico y modelado de datos
+- ETL básico y modelado de datos.
 
 ## Historia del proyecto Amazon Prime: Detrás del abandono, lo que cuesta perder a un cliente
 
@@ -132,13 +132,15 @@ Implementar estas soluciones es una decisión estratégica con beneficios medibl
 
 - SQL (PostgreSQL)
 
-- Power BI (Storytelling, Power Query, modelado, DAX)
+- Power BI (Power Query, DAX, modelado, storytelling)
 
-- Inteligencia artificial (ChatGPT, algoritmos de aprendizaje)
+- Inteligencia artificial (modelos de aprendizaje automático, ChatGPT)
 
 - GitHub (mantenimiento en la nube)
 
-- Jupyter Notebook
+- Figma (Diseño de plantillas para Power BI)
+
+- Visual Studio Code (código y documentación)
 
 ### Fases del análisis
 
@@ -267,6 +269,5 @@ Este proyecto demuestra cómo el análisis de datos puede anticipar comportamien
 ### Contacto
 
 Portfolio:
-Teléfono: 672175240
 Email: catiaazancotc@gmail.com
 Linkedin:
