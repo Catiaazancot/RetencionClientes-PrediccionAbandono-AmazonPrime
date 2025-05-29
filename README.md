@@ -122,6 +122,15 @@ El análisis de datos no solo ha permitido identificar los factores de abandono,
 
 Implementar estas soluciones es una decisión estratégica con beneficios medibles y sostenibles a corto y largo plazo.
 
+
+## Visualización de resultados clave
+
+Se muestra aquí la primera página del dashboard realizado en Power BI (detallado más adelante) , diseñado para responder preguntas clave del negocio, detectar puntos críticos y facilitar la toma de decisiones en tiempo real.
+
+![Captura de pantalla 2025-05-29 181255](https://github.com/user-attachments/assets/5dc02e15-3c45-4a8d-b35e-7c7c29cab9ec)
+
+Gracias al análisis realizado, esta visualización resume los factores más influyentes en la pérdida de clientes y orienta acciones estratégicas para reducirla.
+
 ## Desarrollo técnico del análisis
 
 ### Tecnologías utilizadas
