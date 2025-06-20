@@ -2,7 +2,9 @@
 
 ## Del dato a la acción: patrones y decisiones claves
 
-A partir del análisis, se identificaron patrones clave que justifican las acciones de negocio propuestas a continuación:
+Amazon Prime es uno de los servicios de suscripción más populares a nivel mundial. En un mercado cada vez más competitivo, entender por qué los usuarios deciden cancelar su suscripción se ha convertido en una prioridad estratégica para asegurar la fidelización y la rentabilidad del servicio.
+
+Mediante un análisis detallado de los datos, se identificaron patrones clave en el comportamiento de los clientes que sustentan las siguientes acciones estratégicas que la empresa podría llevar a cabo.
 
 **Patrones detectados:**
 
@@ -278,5 +280,5 @@ Este proyecto demuestra cómo el análisis de datos puede anticipar comportamien
 ### Contacto
 
 Portfolio:
-Email: catiaazancotc@gmail.com
+Email: catalina.data1@gmail.com
 Linkedin:
