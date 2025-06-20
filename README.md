@@ -4,7 +4,7 @@
 
 Amazon Prime es uno de los servicios de suscripción más populares a nivel mundial. En un mercado cada vez más competitivo, entender por qué los usuarios deciden cancelar su suscripción se ha convertido en una prioridad estratégica para asegurar la fidelización y la rentabilidad del servicio.
 
-Mediante un análisis detallado de los datos, se identificaron patrones clave en el comportamiento de los clientes que sustentan las siguientes acciones estratégicas que la empresa podría llevar a cabo.
+Mediante un análisis detallado de los datos, **se identificaron patrones clave** en el comportamiento de los clientes que sustentan las siguientes **acciones estratégicas** que la empresa podría llevar a cabo.
 
 **Patrones detectados:**
 
@@ -44,33 +44,33 @@ Mediante un análisis detallado de los datos, se identificaron patrones clave en
 
 ### Resultados de negocio potenciales de las acciones propuestas
 
-La implementación de estas acciones podría evitar la pérdida de más de 1.700 clientes, reduciendo el abandono de manera significativa. Esto se traduce en un potencial de recuperación de más de 65.000 € al mes en ingresos, según el valor medio mensual por cliente.
+La implementación de estas acciones podría **evitar la pérdida de más de 1.700 clientes**, reduciendo el abandono de manera significativa. Esto se traduce en un potencial de recuperación de más de **65.000 € al mes en ingresos**, según el valor medio mensual por cliente.
 
 Además, estas acciones no solo tienen impacto económico inmediato, sino que también contribuyen a una mejor experiencia del cliente, fomentan una mayor fidelidad y aumentan el valor de vida del usuario (CLV).
 
 ### Habilidades demostradas en este proyecto
 
-- Conciencia del impacto en negocio: foco constante en la mejora de la eficiencia operativa y aumento de la retención de clientes.
+- **Conciencia del impacto en negocio**: foco constante en la mejora de la eficiencia operativa y aumento de la retención de clientes.
 
-- Pensamiento estratégico y comprensión del negocio: priorizo una comprensión profunda del contexto, las métricas clave y los objetivos empresariales antes de iniciar cualquier análisis, asegurando que los resultados sean relevantes y aporten valor real.
+- **Pensamiento estratégico y comprensión del negocio**: priorizo una comprensión profunda del contexto, las métricas clave y los objetivos empresariales antes de iniciar cualquier análisis, asegurando que los resultados sean relevantes y aporten valor real.
 
-- Buenas prácticas en calidad, validación y gobernanza del dato: validación de consistencia, tratamiento de nulos y outliers, normalización y limpieza con enfoque en la integridad de la información.
+- **Buenas prácticas en calidad, validación y gobernanza del dato**: validación de consistencia, tratamiento de nulos y outliers, normalización y limpieza con enfoque en la integridad de la información.
 
-- Automatización con inteligencia artificial: uso de IA para documentar procesos, asistir en tareas repetitivas y generar código, lo que permite centrar el esfuerzo en el análisis de valor.
+- **Automatización con inteligencia artificial**: uso de IA para documentar procesos, asistir en tareas repetitivas y generar código, lo que permite centrar el esfuerzo en el análisis de valor.
 
-- Mentalidad orientada a la eficiencia y al rendimiento: optimizo procesos mediante funciones en Python y aplico buenas prácticas en Power BI y SQL para mejorar tiempos de carga, eficiencia de consultas y experiencia de uso.
+- **Mentalidad orientada a la eficiencia y al rendimiento**: optimizo procesos mediante funciones en Python y aplico buenas prácticas en Power BI y SQL para mejorar tiempos de carga, eficiencia de consultas y experiencia de uso.
 
-- Análisis exploratorio de datos (EDA).
+- **Análisis exploratorio de datos (EDA).**
 
-- Aplicación de un modelo de regresión logística en R con el objetivo de identificar los factores que más influyen en la pérdida de clientes, utilizando las librerías dplyr, broom, janitor y ggplot2.
+- Aplicación de un **modelo de regresión logística** en R con el objetivo de identificar los factores que más influyen en la pérdida de clientes, utilizando las librerías dplyr, broom, janitor y ggplot2.
 
-- Diseño e implementación de una base de datos relacional en PostgreSQL.
+- Diseño e implementación de una **base de datos relacional** en PostgreSQL.
 
-- Consultas SQL orientadas al negocio.
+- **Consultas SQL** orientadas al negocio.
 
-- Visualización y storytelling con Power BI.
+- **Visualización y storytelling con Power BI.**
 
-- ETL básico y modelado de datos.
+- **ETL básico y modelado de datos.**
 
 ## Historia del proyecto Amazon Prime: Detrás del abandono, lo que cuesta perder a un cliente
 
@@ -155,7 +155,7 @@ Gracias al análisis realizado, esta visualización resume los factores más inf
 
 ### Fases del análisis
 
-1. Comprensión del negocio y definición del objetivo
+**1. Comprensión del negocio y definición del objetivo**
 
 Antes de comenzar el análisis, dediqué un tiempo a estudiar el contexto de la empresa, comprender sus necesidades reales, identificar claramente el problema y formular múltiples preguntas de negocio orientadas a posibles soluciones.
 
@@ -163,7 +163,7 @@ También analicé los datos disponibles para asegurarme de que respondían a eso
 
 Esta fase me permitió conectar los datos con los objetivos estratégicos de la empresa, y plantear el análisis desde una perspectiva orientada a impacto real.
 
-2. Preparación, limpieza y validazción de datos (Python)
+**2. Preparación, limpieza y validazción de datos (Python)**
 
 Comencé trabajando con Python para cargar y explorar los datos, asegurando su calidad desde el inicio. Normalicé formatos, detecté y traté outliers según el contexto del negocio, y gestioné los valores nulos de forma estratégica.
 
@@ -171,17 +171,17 @@ También verifiqué la consistencia entre tablas y apliqué principios de valida
 
 Además, para optimizar el desarrollo, modularicé el código en funciones dentro de un archivo src, que importé en los notebooks correspondientes. Esta estructura permitió evitar duplicaciones, facilitar el mantenimiento y fomentar la reutilización eficiente del código.
 
-3. Análisis exploratorio y generación de insights
+**3. Análisis exploratorio y generación de insights**
 
 Realicé un análisis exploratorio detallado, tanto univariado como multivariado, centrándome en relaciones clave entre variables para detectar patrones relevantes y descubrir oportunidades de mejora. Para ello, utilicé gráficos de dispersión, matrices de correlación y gráficos de barras, con el fin de entender cómo ciertos factores influían en métricas clave, por ejemplo, la tasa de cancelación.
 
-4. Modelo de regresión logística en R (dplyr, broom, janitor, ggplot2)
+**4. Modelo de regresión logística en R (dplyr, broom, janitor, ggplot2)**
 
 Desarrollé un modelo predictivo en R con el objetivo de identificar los factores que más influían en la pérdida de clientes. Incluí todas las variables relevantes como predictoras, tras una limpieza de datos y transformación de variables categóricas. Los coeficientes estadísticamente significativos fueron visualizados mediante un gráfico de barras para facilitar la interpretación del modelo.
 
 Resultado: El modelo permitió detectar que variables como el tipo de contrato, el número de llamadas al soporte y la pertenencia a un plan familiar tienen un impacto claro sobre la probabilidad de abandono. Esta información fue clave para proponer acciones de retención concretas y orientar decisiones estratégicas.
 
-5. Modelado relacional y consultas en SQL (PostgreSQL)
+**5. Modelado relacional y consultas en SQL (PostgreSQL)**
 
 Diseñé un modelo relacional en PostgreSQL que reflejase con precisión la estructura lógica del dataset. Para ello, trabajé con relaciones uno a varios, definiendo correctamente claves primarias y foráneas para garantizar la integridad referencial y facilitar futuras consultas.
 
@@ -189,7 +189,7 @@ Una vez cargados los datos desde Python, elaboré consultas SQL específicas ori
 
 Estas consultas no solo reproducen los principales hallazgos del análisis exploratorio, sino que también permiten obtener respuestas reproducibles, escalables y directamente accionables desde la base de datos.
 
-6. Visualización y storytelling en Power BI
+**6. Visualización y storytelling en Power BI**
 
 Integré los datos desde PostgreSQL directamente en Power BI, manteniendo la estructura relacional optimizada. En Power Query validé los datos, establecí relaciones en el modelado y desarrollé medidas DAX personalizadas, así como una tabla calendario para análisis temporal detallado.
 
@@ -212,7 +212,7 @@ Construí los dashboards con foco en:
 
 Incorporé marcadores, tooltips personalizados y visuales de alerta para destacar indicadores críticos. Previamente, diseñé las plantillas en Figma, garantizando un mejor rendimiento y una experiencia más optimizada.
 
-7. Cuantificación del impacto
+**7. Cuantificación del impacto**
 
 En esta sección hemos cuantificado el impacto que tendrían las acciones de negocio recomendadas sobre tres grupos críticos de clientes:
 
@@ -241,12 +241,12 @@ La implementación de estas acciones podría evitar la pérdida de más de 1.700
 Además, estas acciones no solo tienen impacto económico inmediato, sino que también contribuyen a una mejor experiencia del cliente, fomentan una mayor fidelidad y aumentan el valor de vida del usuario (CLV).
 El resultado es un dashboard pensado tanto para perfiles técnicos como de negocio, que facilita la toma de decisiones desde el primer vistazo.​
 
-8. Automatización e inteligencia artificial
+**8. Automatización e inteligencia artificial**
 
 Durante el proceso, integré automatizaciones para tareas repetitivas, desde la generación asistida de funciones en Python hasta el uso de inteligencia artificial (GPT)  para documentar, generar código y explicar errores.
 Esto permitió optimizar el tiempo y enfocar los esfuerzos en obtener insights relevantes y aplicables al negocio.
 
-9. Documentación del proyecto y datos
+**9. Documentación del proyecto y datos**
 
 Todo el desarrollo técnico del proyecto está documentado con más detalle en mi repositorio de GitHub, donde puede consultarse el código completo.
 🔗 (Repositorio vinculado a empresa ficticia)
@@ -255,7 +255,7 @@ Los datos utilizados provienen de un dataset público de Kaggle, centrado en la 
 
 ## Reflexiones finales y evolución futura
 
-Este proyecto no solo permitió identificar con precisión los factores que impulsan la pérdida de clientes, sino también demostrar cómo un enfoque basado en datos puede traducirse en decisiones estratégicas con impacto directo en la retención y rentabilidad del negocio.
+Este proyecto no solo permitió identificar con precisión los factores que impulsan la pérdida de clientes, sino también demostrar cómo un enfoque basado en datos puede traducirse en **decisiones estratégicas con impacto directo en la retención y rentabilidad del negocio.**
 
 Entre las acciones propuestas, destacan tres con impacto inmediato:
 
@@ -275,7 +275,7 @@ Además de ofrecer resultados tangibles, este análisis sienta las bases para fu
 
 - Diseñar campañas personalizadas basadas en segmentaciones avanzadas (RFM, CLV).
 
-Este proyecto demuestra cómo el análisis de datos puede anticipar comportamientos críticos y ayudar a construir una relación más sólida, rentable y sostenible entre empresa y cliente.
+Este proyecto demuestra cómo el análisis de datos puede **anticipar comportamientos críticos y ayudar a construir una relación más sólida, rentable y sostenible entre empresa y cliente.**
 
 ### Contacto
 
