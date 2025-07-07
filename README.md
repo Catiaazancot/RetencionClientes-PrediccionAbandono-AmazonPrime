@@ -279,6 +279,6 @@ Este proyecto demuestra cómo el análisis de datos puede **anticipar comportami
 
 ### Contacto
 
-Portfolio:
+Portafolio: https://catiaazancotc.wixsite.com/catalina-azancot
+Linkedin: https://www.linkedin.com/in/catalina-data/
 Email: catalina.data1@gmail.com
-Linkedin:
